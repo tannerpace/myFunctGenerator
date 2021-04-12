@@ -1,6 +1,3 @@
-
-
-   
 a = Number(prompt("enter a number"))
  b = Number(prompt("enter a number"))
  c = prompt("enter an operator")
